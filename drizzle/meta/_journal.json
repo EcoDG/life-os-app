@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1779262821064,
+      "tag": "0000_workable_norrin_radd",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1779263015961,
+      "tag": "0001_calm_ravenous",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1779341708429,
+      "tag": "0002_wide_quentin_quire",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1779861924200,
+      "tag": "0003_mighty_unus",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1779949302900,
+      "tag": "0004_productive_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1779955014705,
+      "tag": "0005_yellow_nekra",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+id,userId,date,energy,sleep,todoMode,drain,charge,notes,createdAt,updatedAt,sleepDuration,sleepScore,hrv,restingHeartRate,healthSyncedAt,energyGrade,sleepGrade
+1,1,2026-05-21,3,ok,normal,,,,Thu May 21 2026 05:19:43 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:19:43 GMT+0000 (Coordinated Universal Time),,,,,,,
+30001,1,2026-05-26,3,ok,normal,AX PR을 위한 유관조직 커뮤니케이션,"산책, 유튜브 인사이트",,Tue May 26 2026 07:51:00 GMT+0000 (Coordinated Universal Time),Tue May 26 2026 07:52:22 GMT+0000 (Coordinated Universal Time),,,,,,,
+60001,1,2026-05-27,2,good,survival,회사 PR 보도자료 작성 커뮤니케이션,M1 지속 개발,,Wed May 27 2026 10:41:42 GMT+0000 (Coordinated Universal Time),Wed May 27 2026 10:42:27 GMT+0000 (Coordinated Universal Time),,,,,,,
+90001,1,2026-05-28,4,good,stretch,사내 gbs 방송관련 콘텐츠 문구 검토/확정,"M1 고도화, 고블린, 유튜브 에어비앤비 영상 시청 등",,Thu May 28 2026 05:30:55 GMT+0000 (Coordinated Universal Time),Thu May 28 2026 05:32:57 GMT+0000 (Coordinated Universal Time),,,,,,,

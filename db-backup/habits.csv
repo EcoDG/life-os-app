@@ -1,0 +1,4 @@
+id,userId,slot,name,targetFrequency,createdAt,updatedAt
+1,1,A,유튜브 인사이트 메모 1개,7,Thu May 21 2026 05:30:41 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:40:20 GMT+0000 (Coordinated Universal Time)
+2,1,B,운동 or 산책,7,Thu May 21 2026 05:30:41 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:39:50 GMT+0000 (Coordinated Universal Time)
+3,1,C,독서 or 명상,7,Thu May 21 2026 05:30:41 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:39:56 GMT+0000 (Coordinated Universal Time)

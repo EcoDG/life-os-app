@@ -1,0 +1,9 @@
+id,userId,dailyEntryId,date,content,done,sortOrder,createdAt,updatedAt
+1,1,,2026-05-21,투자 분석 M2 개발,0,0,Thu May 21 2026 05:29:40 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:29:40 GMT+0000 (Coordinated Universal Time)
+3,1,,2026-05-21,"유튜브 영상 기반, 목표 설정 위임/ 문제해결 위임",0,1,Thu May 21 2026 05:29:55 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:29:55 GMT+0000 (Coordinated Universal Time)
+30001,1,,2026-05-26,life os 고도화,0,0,Tue May 26 2026 07:51:12 GMT+0000 (Coordinated Universal Time),Tue May 26 2026 07:51:12 GMT+0000 (Coordinated Universal Time)
+30002,1,,2026-05-26,블로그/SNS/유튜브 SNS 수익화 방안 확정 및 step1 시작,0,1,Tue May 26 2026 07:51:43 GMT+0000 (Coordinated Universal Time),Tue May 26 2026 07:51:43 GMT+0000 (Coordinated Universal Time)
+60001,1,,2026-05-27,M1 git 연동,1,0,Wed May 27 2026 10:41:58 GMT+0000 (Coordinated Universal Time),Wed May 27 2026 10:42:11 GMT+0000 (Coordinated Universal Time)
+90001,1,,2026-05-28,M1 고도화,1,0,Thu May 28 2026 05:31:05 GMT+0000 (Coordinated Universal Time),Thu May 28 2026 08:42:27 GMT+0000 (Coordinated Universal Time)
+90003,1,,2026-05-28,고블린 아이디에이션 with claude,0,1,Thu May 28 2026 05:31:28 GMT+0000 (Coordinated Universal Time),Thu May 28 2026 05:31:28 GMT+0000 (Coordinated Universal Time)
+90004,1,,2026-05-28,에어비앤비 영상 나에게 적용 확인 with claude,0,2,Thu May 28 2026 05:32:03 GMT+0000 (Coordinated Universal Time),Thu May 28 2026 05:32:03 GMT+0000 (Coordinated Universal Time)

@@ -1,0 +1,4 @@
+id,userId,habitId,date,done,createdAt,updatedAt
+1,1,1,2026-05-21,0,Thu May 21 2026 05:39:36 GMT+0000 (Coordinated Universal Time),Thu May 21 2026 05:40:06 GMT+0000 (Coordinated Universal Time)
+30001,1,1,2026-05-28,0,Thu May 28 2026 08:15:31 GMT+0000 (Coordinated Universal Time),Thu May 28 2026 08:15:32 GMT+0000 (Coordinated Universal Time)
+30002,1,2,2026-05-28,0,Thu May 28 2026 08:15:33 GMT+0000 (Coordinated Universal Time),Thu May 28 2026 08:15:33 GMT+0000 (Coordinated Universal Time)
